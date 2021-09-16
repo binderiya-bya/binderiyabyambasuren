@@ -1,2 +1,2 @@
-# binderiya-bya.github.io
+# binderiyabyambasuren
 personal website
