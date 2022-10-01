@@ -1,2 +1,1 @@
-# binderiyabyambasuren
-personal website
+A personal website of Binderiya Byambasuren
