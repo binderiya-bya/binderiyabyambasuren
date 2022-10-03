@@ -37,7 +37,7 @@ superuser: true
 title: Binderiya Byambasuren
 ---
 
-I am a PhD Candidate in Economics at [American University](https://www.american.edu/). My research areas include labor economics, family economics and public economics. 
+I am a PhD Candidate in Economics at [American University](https://www.american.edu/). My research areas include labor economics, family economics and computational economics. 
 
 E-mail: bb3174a@american.edu
 
