@@ -8,7 +8,7 @@ view: 2
 
 ## Working Papers  
   
-#### Long-Term Care and Informal Care Arrangements Between Siblings (Job Market Paper) {{< staticref "uploads/Draft-v4.pdf" "newtab" >}}[pdf]{{< /staticref >}}  
+#### Long-Term Care and Informal Care Arrangements Between Siblings (Job Market Paper) 
 
 #### Options for Modeling the Distributional Impact of Care Policies Using a General Equilibrium (CGE) Framework {{< staticref "https://research.american.edu/careworkeconomy/wp-content/uploads/sites/2/2020/04/FontanaPaperFINALFINALPdf.pdf" "newtab" >}}[pdf]{{< /staticref >}} 
 
