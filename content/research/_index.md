@@ -10,7 +10,7 @@ view: 2
   
 #### Long-Term Care and Family Caregiving (Job Market Paper) 
 
-#### Options for Modeling the Distributional Impact of Care Policies Using a General Equilibrium (CGE) Framework {{< staticref "https://research.american.edu/careworkeconomy/wp-content/uploads/sites/2/2020/04/FontanaPaperFINALFINALPdf.pdf" "newtab" >}}[pdf]{{< /staticref >}} 
+#### "Options for Modeling the Distributional Impact of Care Policies Using a General Equilibrium Framework," Care Work and the Economy: Working Paper Series.(with Carmen Estrades and Marzia Fontana). Apr 2020. {{< staticref "https://research.american.edu/careworkeconomy/wp-content/uploads/sites/2/2020/04/FontanaPaperFINALFINALPdf.pdf" "newtab" >}}[pdf]{{< /staticref >}} 
 
 <br>
 
@@ -23,6 +23,8 @@ view: 2
 ## Policy Writing
 
 #### A Gendered Social Accounting Matrix in South Korea {{< staticref "https://research.american.edu/careworkeconomy/blog/2019/11/01/lofgren-et-al-2019/" "newtab" >}}[blog]{{< /staticref >}} {{< staticref "http://research.american.edu/careworkeconomy/wp-content/uploads/sites/2/2020/10/PolicyBrief-20-09-POST.pdf" "newtab" >}}[brief]{{< /staticref >}} 
+
+#### The Investment Case for Education and Equity. UNICEF. 2015. (Contributor). {{< staticref "https://www.unicef.org/media/50936/file/Investment_Case_for_Education_and_Equity-ENG.pdf" "newtab" >}}[pdf]{{< /staticref >}} 
 
 
 
