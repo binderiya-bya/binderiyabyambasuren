@@ -8,7 +8,7 @@ view: 2
 
 #### Working Papers  
   
-"Long-Term Care and Family Caregiving". 2022. (Job Market Paper).
+"Long-Term Care and Family Caregiving". 2022. (Job Market Paper). [{{< staticref "uploads/JMP.pdf" "newtab" >}}PDF{{< /staticref >}}].
 
 "Options for Modeling the Distributional Impact of Care Policies Using a General Equilibrium Framework," Care Work and the Economy: Working Paper Series. (with Carmen Estrades and Marzia Fontana). 2020. [{{< staticref "https://research.american.edu/careworkeconomy/wp-content/uploads/sites/2/2020/04/FontanaPaperFINALFINALPdf.pdf" "newtab" >}}PDF{{< /staticref >}}] 
 <br> 
