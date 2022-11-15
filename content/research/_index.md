@@ -17,7 +17,7 @@ view: 2
 
 ## Works in Progress
 
-#### "Gender Roles and Division of Housework: Do We Model Our Parents?" (with ). 2022.
+#### "Gender Roles and Division of Housework: Do We Model Our Parents?" (with {{< staticref "https://econjessiewang.weebly.com/" "newtab" >}}Jessie Wang{{< /staticref >}}). 2022.
 
 #### "Long-Term Care and Family Caregiving Across Racial and Ethnic Groups". 2022.
 <br>
