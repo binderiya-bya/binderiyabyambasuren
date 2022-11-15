@@ -14,7 +14,8 @@ email: "bb3174a@american.edu"
 highlight_name: false
 interests:
 - Labor and Demographic Economics
-- Household Behavior and Applied Game Theory
+- Household Behavior and Family Economics
+- Applied Game Theory
 - Computational Economics
 organizations:
 - name: American University
