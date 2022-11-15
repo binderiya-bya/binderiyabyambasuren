@@ -15,7 +15,7 @@ highlight_name: false
 interests:
 - Labor and Demographic Economics
 - Household Behavior and Family Economics
-- Gender Roles
+- Computational Economics
 organizations:
 - name: American University
   # url: https://www.american.edu/
