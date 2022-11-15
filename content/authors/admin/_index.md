@@ -14,8 +14,7 @@ email: "bb3174a@american.edu"
 highlight_name: false
 interests:
 - Labor and Demographic Economics
-- Household Behavior and Family Economics
-- Applied Game Theory
+- Household Behavior and Applied Game Theory
 - Computational Economics
 organizations:
 - name: American University
@@ -35,9 +34,9 @@ superuser: true
 title: Binderiya Byambasuren
 ---
 
-I am a PhD Candidate in Economics at [American University](https://www.american.edu/). I am a labor economist with a focus on household decision-making and gender inequality. I am also interested in applied game theory and computational economics.
+I am a PhD Candidate in Economics at [American University](https://www.american.edu/). I am a labor economist with a focus on household decision-making and gender inequality. My other research interests include applied game theory and computational economics.
 
-I am on the 2022/2023 Economics Job Market and will be available for interviews in the upcoming ASSA Job Market. 
+I am on the 2022/2023 Economics Job Market and will be available for interviews at the upcoming ASSA Meeting. 
 
 You can find my [CV](https://binderiyabyambasuren.com/uploads/CV.pdf) and [Job Market Paper](https://binderiyabyambasuren.com/uploads/JMP.pdf).
 
