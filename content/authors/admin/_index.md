@@ -3,7 +3,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: American University
-    year: expected May 2022
+    year: expected May 2023
   - course: MA in Economics
     institution: American University
     year: 2018
@@ -13,9 +13,9 @@ education:
 email: "bb3174a@american.edu"
 highlight_name: false
 interests:
-- Labor Economics
-- Family Economics
-- Public Economics
+- Labor and Demographic Economics
+- Household Behavior and Family Economics
+- Gender Roles
 organizations:
 - name: American University
   # url: https://www.american.edu/
