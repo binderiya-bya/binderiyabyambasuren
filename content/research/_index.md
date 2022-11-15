@@ -6,7 +6,7 @@ type: page
 view: 2
 ---
 
-#### Job Market Paper 
+#### Working Papers
   
 "Long-Term Care and Family Caregiving". 2022. [{{< staticref "uploads/JMP.pdf" "newtab" >}}PDF{{< /staticref >}}].
 
@@ -14,14 +14,14 @@ view: 2
 evidence that daughters bear the brunt of family care compared to sons due to lower opportunity costs and the role of gender identity norms. Motivated by the empirical evidence, I estimate a Cournot-Nash equilibrium model between a son and a daughter who are heterogeneous in wages and in ’preferences’ for family care, which reflects
 how much weight a child puts on their family care responsibility. Using the structural estimates, I find that heterogeneity in ’preferences’ for family care, rather than differences in opportunity costs, explain most of the gender gap in family caregiving. I quantify that daughters face 4.6\% drop in lifetime earnings due to family caregiving compared to 1.5\% drop for sons
 
-#### Working Papers
-
 "Options for Modeling the Distributional Impact of Care Policies Using a General Equilibrium Framework," Care Work and the Economy: Working Paper Series. (with Carmen Estrades and Marzia Fontana). 2020. [{{< staticref "https://research.american.edu/careworkeconomy/wp-content/uploads/sites/2/2020/04/FontanaPaperFINALFINALPdf.pdf" "newtab" >}}PDF{{< /staticref >}}] 
 <br> 
 
-#### Dissertation Chapters
+#### Works in Progress
 
+"Gender Roles and Division of Housework: Do We Model Our Parents?" (with ). 2022.
 
+"Long-Term Care and Family Caregiving Across Racial and Ethnic Groups". 2022.
 
 #### Policy Writing
 
