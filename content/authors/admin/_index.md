@@ -24,14 +24,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:bb3174a@american.edu
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/binderiya_bya
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/binderiyabyambasuren/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/binderiya_bya
 superuser: true
 title: Binderiya Byambasuren
 ---
