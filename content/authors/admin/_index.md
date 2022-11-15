@@ -1,25 +1,25 @@
 ---
-# education:
-#   courses:
-#   - course: PhD in Economics
-#     institution: American University
-#     year: expected May 2022
-#   - course: MA in Economics
-#     institution: American University
-#     year: 2018
-#   - course: BA in Economics
-#     institution: Mount Holyoke College
-#     year: 2015
-# email: "bb3174a@american.edu"
-# highlight_name: false
-# interests:
-# - Labor Economics
-# - Family Economics
-# - Public Economics
-# organizations:
-# - name: American University
-#   # url: https://www.american.edu/
-# role: PhD Candidate in Economics
+education:
+  courses:
+  - course: PhD in Economics
+    institution: American University
+    year: expected May 2022
+  - course: MA in Economics
+    institution: American University
+    year: 2018
+  - course: BA in Economics
+    institution: Mount Holyoke College
+    year: 2015
+email: "bb3174a@american.edu"
+highlight_name: false
+interests:
+- Labor Economics
+- Family Economics
+- Public Economics
+organizations:
+- name: American University
+  # url: https://www.american.edu/
+role: PhD Candidate in Economics
 social:
 - icon: envelope
   icon_pack: fas
