@@ -8,7 +8,7 @@ view: 2
 
 ## Guest Lecturer
 
-**CORE-107 Complex Problems Seminar: What's It Worth?** by Professor [Mieke Meurs](https://www.american.edu/cas/faculty/mmeurs.cfm)
+**CORE-107 Complex Problems Seminar: What's It Worth?** by Professor [Mieke Meurs](https://www.american.edu/cas/faculty/mmeurs.cfm)  
 A lecture on the role of unpaid care work in the economy and the methods of valuing unpaid care work 
 
 ## Teaching Assistant
