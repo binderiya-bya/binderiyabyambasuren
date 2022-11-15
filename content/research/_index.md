@@ -12,7 +12,7 @@ view: 2
 
 **Abstract**: Adult children make up half of family caregivers of elderly individuals in the United States. Due to prolonged long-term care needs, family caregiving can have significant impact on adult children’s labor supply and earnings trajectory. I provide empirical
 evidence that daughters bear the brunt of family care compared to sons due to lower opportunity costs and the role of gender identity norms. Motivated by the empirical evidence, I estimate a Cournot-Nash equilibrium model between a son and a daughter who are heterogeneous in wages and in ’preferences’ for family care, which reflects
-how much weight a child puts on their family care responsibility. Using the structural estimates, I find that heterogeneity in ’preferences’ for family care, rather than differences in opportunity costs, explain most of the gender gap in family caregiving. I quantify that daughters face 4.6% drop in lifetime earnings due to family caregiving compared to 1.5% drop for sons
+how much weight a child puts on their family care responsibility. Using the structural estimates, I find that heterogeneity in ’preferences’ for family care, rather than differences in opportunity costs, explain most of the gender gap in family caregiving. I quantify that daughters face 4.6\% drop in lifetime earnings due to family caregiving compared to 1.5\% drop for sons
 
 #### Working Papers
 
