@@ -13,10 +13,10 @@ A lecture on the role of unpaid care work in the economy and the methods of valu
 
 ## Teaching Assistant
 
-*Macroeconomics Analysis II** (Ph.D. level)  
-**Intermediate Macroeconomics with Calculus**
-**Economic Inequality**
-**Introduction to Macroeconomics**
-**Introduction to Economics** 
+**Macroeconomics Analysis II** (Ph.D. level)   
+**Intermediate Macroeconomics with Calculus**  
+**Economic Inequality**  
+**Introduction to Macroeconomics**  
+**Introduction to Economics**  
 
 
