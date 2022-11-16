@@ -35,7 +35,7 @@ superuser: true
 title: Binderiya Byambasuren
 ---
 
-I am a PhD Candidate in Economics at [American University](https://www.american.edu/). I am an applied microeconomist with a keen interest in applied econometrics and computational economics. My research interests include labor, demography, household behavior and gender roles. 
+I am a PhD Candidate in Economics at [American University](https://www.american.edu/). I am an applied microeconomist with a strong interest in computational economics and applied econometrics. My research areas include labor, demography, household behavior and gender roles. 
 
 I am on the 2022/2023 Economics Job Market and will be available for interviews at the upcoming ASSA Meeting. 
 
