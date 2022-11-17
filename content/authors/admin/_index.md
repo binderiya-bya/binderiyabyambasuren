@@ -37,7 +37,7 @@ title: Binderiya Byambasuren
 
 I am a PhD Candidate in Economics at [American University](https://www.american.edu/). I am an applied microeconomist with a strong interest in computational economics and applied econometrics. My research areas include labor, demography, household behavior and gender roles. 
 
-I am on the 2022/2023 Economics Job Market and will be available for interviews at the upcoming ASSA Meeting. 
+I am on the 2022/2023 Economics Job Market and will be available for interviews at the European Job Market for Economists in December and the ASSA Meetings in January.
 
 You can find my [CV](https://binderiyabyambasuren.com/uploads/CV.pdf) and [Job Market Paper](https://binderiyabyambasuren.com/uploads/JMP.pdf).
 
