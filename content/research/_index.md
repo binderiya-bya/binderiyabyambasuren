@@ -24,7 +24,7 @@ view: 2
 
 ## Policy Writing
 
-##### "Family Caregiving at Older Ages: Implications for Adult Children by Race and Ethnicity". 2022. [{{< staticref "uploads/JSIT.pdf" "newtab" >}}PDF{{< /staticref >}}] [{{< staticref "uploads/JSIT_brief.pdf" "newtab" >}}brief{{< /staticref >}}]
+##### "Family Caregiving at Older Ages: Implications for Adult Children by Race and Ethnicity". 2022. [{{< staticref "uploads/JSIT_brief.pdf" "newtab" >}}brief{{< /staticref >}}]
 
 ##### "A Gendered Social Accounting Matrix in South Korea". Care Work and the Economy Project. 2019. [{{< staticref "https://research.american.edu/careworkeconomy/blog/2019/11/01/lofgren-et-al-2019/" "newtab" >}}blog{{< /staticref >}}] [{{< staticref "http://research.american.edu/careworkeconomy/wp-content/uploads/sites/2/2020/10/PolicyBrief-20-09-POST.pdf" "newtab" >}}brief{{< /staticref >}}] 
 
