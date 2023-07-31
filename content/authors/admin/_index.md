@@ -12,11 +12,6 @@ education:
     year: 2015
 email: "bb3174a@american.edu"
 highlight_name: false
-interests:
-- Labor and Demographic Economics
-- Household Behavior and Family Economics
-- Applied Econometrics
-- Computational Economics
 organizations:
 - name: American University
   # url: https://www.american.edu/
@@ -35,9 +30,7 @@ superuser: true
 title: Binderiya Byambasuren
 ---
 
-I am a PhD Candidate in Economics at [American University](https://www.american.edu/). I am an applied economist with a focus on the care economy and inequality. My research areas include labor, demography, household behavior and gender roles. 
-
-You can find my [CV](https://binderiyabyambasuren.com/uploads/CV.pdf) and [Job Market Paper](https://binderiyabyambasuren.com/uploads/JMP.pdf).
+I am a PhD Candidate in Economics at [American University](https://www.american.edu/). I am an applied microeconomist with a focus on labor economics and household behavior. My research areas include care work, aging, social norms and inequality of gender, race and ethnicity.
 
 E-mail: bb3174a@american.edu
 
