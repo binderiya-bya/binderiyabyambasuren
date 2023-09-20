@@ -8,11 +8,11 @@ view: 2
 
 ## Working Papers
   
-##### "Long-Term Care and Family Caregiving". 2023. [{{< staticref "uploads/JMP.pdf" "newtab" >}}PDF{{< /staticref >}}].
+"Long-Term Care and Family Caregiving". 2023. [{{< staticref "uploads/JMP.pdf" "newtab" >}}PDF{{< /staticref >}}].
 
-##### "Family Caregiving at Older Ages: Implications for Adult Children by Race and Ethnicity". 2023. [{{< staticref "uploads/JSIT.pdf" "newtab" >}}PDF{{< /staticref >}}]
+"Family Caregiving at Older Ages: Implications for Adult Children by Race and Ethnicity". 2023. [{{< staticref "uploads/JSIT.pdf" "newtab" >}}PDF{{< /staticref >}}]
 
-##### "Options for Modeling the Distributional Impact of Care Policies Using a General Equilibrium Framework," Care Work and the Economy: Working Paper Series. (with Carmen Estrades and Marzia Fontana). 2020. [{{< staticref "https://research.american.edu/careworkeconomy/wp-content/uploads/sites/2/2020/04/FontanaPaperFINALFINALPdf.pdf" "newtab" >}}PDF{{< /staticref >}}] 
+"Options for Modeling the Distributional Impact of Care Policies Using a General Equilibrium Framework," Care Work and the Economy: Working Paper Series. (with Carmen Estrades and Marzia Fontana). 2020. [{{< staticref "https://research.american.edu/careworkeconomy/wp-content/uploads/sites/2/2020/04/FontanaPaperFINALFINALPdf.pdf" "newtab" >}}PDF{{< /staticref >}}] 
 <br>
 
 ## Works in Progress
