@@ -27,7 +27,7 @@ social:
 #   icon_pack: fab
 #   link: https://twitter.com/binderiya_bya
 superuser: true
-title: Binderiya Byambasuren
+# title: Binderiya Byambasuren
 ---
 
 I am a PhD in Economics from [American University](https://www.american.edu/). I am an applied microeconomist with a focus on labor economics and household behavior. My research areas include care work, aging, social norms and inequality of gender, race and ethnicity.
