@@ -16,7 +16,7 @@ highlight_name: false
 # - name: American University
 #   # url: https://www.american.edu/
 role: Ph.D. in Economics
-# social:
+social:
 - icon: envelope
   icon_pack: fas
   link: mailto:bb3174a@american.edu
